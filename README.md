@@ -1,5 +1,4 @@
-# TL19-48
-
+# VOLTRON
 
 The project for the course of software engineering at NTUA during the academic year of 2019-2020.
 <br/>
